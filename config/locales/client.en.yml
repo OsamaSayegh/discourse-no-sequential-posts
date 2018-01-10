@@ -1,0 +1,6 @@
+en:
+  js:
+    no_sequential_posts:
+      can_post: "You can create a new post now!"
+      cant_post: "You can't create a new post. Please wait until someone replies to this topic."
+      cant_post_and_time: "You can't create a new post for now. You'll be able to create a new post when someone replies to this topic or this timer finishes {{hours}}:{{mins}}:{{secs}}"

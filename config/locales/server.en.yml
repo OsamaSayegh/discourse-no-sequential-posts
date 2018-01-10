@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    no_sequential_posts_plugin_enabled: "Enable the no sequential posts plugin"
+    no_sequential_posts_until_x_seconds_passed: "Don't allow users to make sequential posts until x seconds have passed. 0 to never allow unless another user posts. Possible values: 3600 for an hour, 86400 for a day"
+    no_sequential_posts_exempted_groups: "Specify the groups whose users will not be restricted to create sequential posts. TIP: Add \"admins\" to exempt admins, add \"moderators\" for moderators, add \"trust_level_4\" for trust level 4 users and so on."

@@ -1,0 +1,14 @@
+plugins:
+  no_sequential_posts_plugin_enabled:
+    default: false
+    client: true
+    refresh: true
+  no_sequential_posts_until_x_seconds_passed:
+    default: 300
+    min: 0
+    client: true
+    refresh: true
+  no_sequential_posts_exempted_groups:
+    default: ''
+    type: list
+    refresh: true
